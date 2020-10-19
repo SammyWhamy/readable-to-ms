@@ -26,7 +26,7 @@ rtm('12 seconds 5 ms') // 12005
 ## Testing
 
 ```sh
-npm run text "input"
+npm run test "input"
 ```
 
 ## Author
