@@ -1,11 +1,11 @@
 {
   "name": "readable-to-ms",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert readable time to milliseconds",
   "main": "index.js",
   "types": "index.d.ts",
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/SammyWhamy"
   },
   "scripts": {
     "test": "node ./test/index.test.js"
