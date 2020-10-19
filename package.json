@@ -1,0 +1,26 @@
+{
+  "name": "readable-to-ms",
+  "version": "1.0.0",
+  "description": "Convert readable time to milliseconds",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node ./test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SammyWhamy/readable-to-ms.git"
+  },
+  "keywords": [
+    "time",
+    "convert",
+    "milliseconds",
+    "readable"
+  ],
+  "author": "Sam Teeuwisse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SammyWhamy/readable-to-ms/issues"
+  },
+  "homepage": "https://github.com/SammyWhamy/readable-to-ms#readme"
+}
