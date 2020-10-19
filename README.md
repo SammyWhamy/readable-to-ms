@@ -17,10 +17,11 @@ rtm('1m') // 60000
 rtm('1y') // 31556952000
 rtm('1m 1s') // 61000 
 rtm('Nope') // false 
-rtm('1mo this is cool!') // {ms: 60000, text: "this is cool!"} 
+rtm('1min this is cool!') // {ms: 60000, text: "this is cool!"} 
 rtm('1 minute') // 60000 
 rtm('5 secs') // 5000 
 rtm('12 seconds 5 ms') // 12005
+rtm('1 minute update in 1 hour') // {ms: 60000, text: "update in 1 hour"}
 ```
 
 ## Testing
